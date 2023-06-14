@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">User Profile</string>
+    <string name="website_address">Website address</string>
+    <string name="hide_password">Hide Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email address</string>
+    <string name="submit">Submit</string>
+    <string name="first_name">First Name</string>
+    <string name="tap_to_add_avatar">Tap to add avatar</string>
+    <string name="submit_p1">Use the form below to submit your portfolio An email and password are required</string>
+    <string name="profile_creation">Profile Creation</string>
+    <string name="submit_p2">Your super awesome portfolio has been successfully submitted. The preview below is what the community will see!</string>
+    <string name="sign_in">Sign In</string>
+</resources>
